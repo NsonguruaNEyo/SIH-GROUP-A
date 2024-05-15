@@ -1,0 +1,318 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.imagesize{
+    height: 14px;
+    padding-bottom: 4px;
+}
+.nav-item :hover{
+    background-color: rgb(254,227,219);
+    color: rgb(238, 75, 43);
+    border-radius: 12px;
+}
+.Icon{
+    width: 100%;
+    position: relative;
+}
+.nav-link{
+    color: white;
+}
+.Nav-text{
+    margin-top: -5px;
+    font-size: 13px;
+    color: white;
+    padding-left: 30px;
+}
+.navbar-brand{
+    padding-left: 30px;
+    font-size: 30px;
+}
+.shapes{
+    position: relative;
+    bottom: 170px;
+    right: 150px;
+    font-size: 12px;
+}
+.circle{
+    position: absolute;
+    border: 4px solid white;
+    background-color: rgb(238, 75, 43);
+    height: 130px;
+    width: 160px;
+    border-radius: 50%;
+    color: white;
+    font-size: 14px;
+    margin-top: -90px;
+    margin-left: 1130px;
+    z-index: 2;
+    padding-top: 10px;
+    padding-left: 38px;
+}
+.rectangle-2{
+    width: 208px;
+    height: 154px;
+    font-size: 11px;
+    color: white;
+    border-radius: 12px;
+    background-color: rgb(238, 75, 43);
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 10px;
+    border: 4px solid white;
+    position: absolute;
+    margin-left: 1110px;
+    z-index: 1;
+}
+.right-arrow{
+    font-size: 26px;
+    margin-top: 35px;
+}
+.right-arrow a{
+    color: rgb(238, 75, 43);
+    text-decoration: none;
+}
+
+.Text-1{
+    font-size: 18px;
+}
+.Text-2{
+    font-size: 14px;
+}
+.btn-1{
+    color: white;
+    background-color: rgb(238, 75, 43);
+}
+.content1{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.flying{
+    position: absolute;
+    bottom: 90px;
+    left: 20px;
+    font-size: 26px;
+    line-height: 1;
+  }
+.more{
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    font-size: 26px;
+}
+.more a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.travel{
+    position: absolute;
+    bottom: 100px;
+    left: 20px;
+    font-size: 26px; 
+}
+.signup{
+    position: absolute;
+    bottom: 90px;
+    left: 20px;
+    font-size: 26px; 
+    text-align: left; 
+    line-height: 1;
+}
+.colour{
+    color: #132D40;
+    font-size: 38px;
+}
+.anotherbooking{
+    margin-top: 35px;
+    color: #132D40;
+}
+.Part1{
+    font-size: 38px;
+}
+.Europe{
+    color: #132D40;
+    font-size: 20px;
+    line-height: 1;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.Connect{
+    color: #132D40;
+    font-size: 20px;
+    line-height: 1;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.content2.col-lg-5.col-md-6{
+    margin-top: 20px;
+    padding-left: 60px;
+}
+.find-out-more-button{
+    background-color: rgb(238, 75, 43);
+    border-radius: 6px;
+    color: white;
+    height: 40px;
+    font-size: 26px;
+    width: 230px;
+    text-align: center;
+    margin-top: 90px;
+    border: 2px solid white;
+}
+.card{
+    border: 2px solid red;
+}
+.Body{
+    color: #132D40;
+    font-size: 20px;
+}
+.card-title{
+    text-align: center;
+    margin-top: -10px;
+}
+.card-body{
+    border: 1px solid red;
+}
+.card-text{
+    font-size: 20px;
+    line-height: 1;
+}
+.layer{
+    margin-top: 50px;
+}
+.rectangle-1{
+    height: 50px;
+    width: 100px;
+    background-color: #555;
+}
+.head1{
+    color: #3D3939;
+    font-size: 26px;
+    margin-top: 80px;
+}
+.rectangle{
+    width: 200px;
+    height: 187px;
+    background-color: #595959;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+.help-tips{
+    text-align: left;
+    padding-left: 10px;
+    color: white;
+}
+.head2{
+    font-size: 26px;
+    color: rgb(238, 75, 43);
+    margin-top: 40px;
+    padding-left: 30px;
+}
+.Brag{
+    font-size: 16px;
+    color: #304758;
+}
+.Brag2{
+    font-size: 16px;
+    color: #304758;
+    margin-top: 40px;
+}
+.Brag3{
+    font-size: 16px;
+    color: #304758;
+    margin-top: 40px;
+}
+.takenote{
+    color: rgb(238, 75, 43);
+}
+.footer1{
+    background: #c0d8e9;
+    margin-top: 40px;
+}
+.connect{
+    font-size: 26px;
+    color: #3D3939;
+}
+.head3{
+    font-size: 26px;
+    color: #3D3939;
+}
+.head4{
+    margin-top: 20px;
+    font-size: 26px;
+    color: #3D3939;
+}
+.head4 li{
+    list-style: none;
+}
+.footer1{
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+}
+.social-media{
+    color: rgb(238, 75, 43);
+    font-size: 46px;
+}
+
+/* Media query for all screen sizes */
+@media screen and (max-width:1110px){
+    .Part1{
+        margin-top: -30px;
+        font-size: 30px;
+    }
+    .Europe{
+        font-size: 17px;
+        line-height: 1;
+        font-weight: 400;
+        padding-top: 5px;
+    }
+    .Connect{
+        font-size: 17px;
+        line-height: 1;
+        font-weight: 400;
+        padding-top: 5px;
+    }
+    .card-text{
+        font-size: 18px;
+        line-height: 1;
+    }
+    .rectangle{
+    width: 160px;
+    height: 187px;
+    font-size: 16px;
+    }
+}
+@media screen and (max-width:810px){
+    .flying{
+        position: absolute;
+    bottom: 60px;
+    left: 10px;
+    font-size: 22px;
+    line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 10px;
+        left: 15px;
+        font-size: 22px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 15px;
+        font-size: 22px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 60px;
+        left: 15px;
+        font-size: 22px; 
+        text-align: left; 
+        line-height: 1;
+    }
+}
+    
+
